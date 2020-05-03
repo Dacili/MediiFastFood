@@ -23,7 +23,6 @@ Functionalities are:
 - registration
 - log in
 - search items
-- filter search list
 - see more details about item
 - add items to the cart
 - remove items from the cart
