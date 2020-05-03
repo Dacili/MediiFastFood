@@ -30,6 +30,6 @@ Functionalities are:
 - messages about success or fails were done with side notifications
 ...
 
-Frontend was created using Angular9, while backend was created using .NET Core. For database manipulations Entity framework was used with combination of Repository pattern.
+Frontend was created using Angular9, while backend was created using .NET Core. For database manipulations Entity framework was used.
 
 
