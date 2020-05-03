@@ -7,6 +7,17 @@ Roles:
 - customer
 - admin
 
+![alt text](https://github.com/Dacili/MediiFastFood/blob/master/Home.PNG)
+
+Few customer screenshots:
+![alt text](https://github.com/Dacili/MediiFastFood/blob/master/AddToCart.PNG)
+![alt text](https://github.com/Dacili/MediiFastFood/blob/master/Cart.PNG)
+
+Few admin screenshots:
+![alt text](https://github.com/Dacili/MediiFastFood/blob/master/FoodMenuAdmin.PNG)
+![alt text](https://github.com/Dacili/MediiFastFood/blob/master/WarningPopUpDelete.PNG)
+![alt text](https://github.com/Dacili/MediiFastFood/blob/master/AddFoodItem.PNG)
+
 
 Functionalities are:
 - registration
